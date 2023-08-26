@@ -9,7 +9,6 @@ Welcome to my portfolio website built using React, HTML, CSS, and JavaScript! Th
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Screenshots](#project-screenshots)
 - [Contact](#contact)
 
 ## Introduction
@@ -39,10 +38,6 @@ This portfolio website provides a glimpse into my journey as a developer and hig
 
 1. Start the development server: `npm start`
 2. Open your browser and go to `http://localhost:3000` to view the website.
-
-## Project Screenshots
-
-_Insert screenshots of your portfolio website here._
 
 ## Contact
 
