@@ -45,6 +45,6 @@ Feel free to reach out if you have any questions, feedback, or collaboration opp
 
 - Email: regi@regiloshi.com
 - LinkedIn: [Regi Loshi](https://www.linkedin.com/in/regi-loshi-190602276)
-- GitHub: [RegiLoshi](https://github.com/yourusername)
+- GitHub: [RegiLoshi](https://github.com/RegiLoshi)
 
 ---
