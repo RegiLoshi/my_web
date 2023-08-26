@@ -1,7 +1,3 @@
-Of course! Here's a basic template for a README file for your portfolio website:
-
----
-
 # My Portfolio Website
 
 Welcome to my portfolio website built using React, HTML, CSS, and JavaScript! This website showcases a collection of my projects and serves as a platform for displaying my work. I will continue to update and add more projects over time.
