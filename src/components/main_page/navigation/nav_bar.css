@@ -1,0 +1,36 @@
+ul{
+    display: flex;
+    list-style: none;
+    gap: 50px;
+    margin-top: 20px;
+}
+ul li {
+    color: white;
+    font-size: 15px;
+    border: solid 0px;
+    animation: fadeIn 5s;
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+    animation: fadeIn 5s;
+}
+li::after {
+    background-color: white;
+    content: "";
+    width: 0;
+    height: 3px;
+    left: 0;
+    bottom: 0;
+    transition: width 0.35s ease 0s;
+    position: absolute;
+  }
+  
+  li:hover::after {
+    width: 100%;
+  }
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  

@@ -1,0 +1,14 @@
+.introduction{
+    margin-top: 25%;
+    margin-left: 10%;
+    cursor: default;
+  }
+.introduction{
+  font-size: 20px;
+}
+
+@media only screen and (max-width: 800px){
+  .introduction{
+    font-size: 20px;
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b09ead24.css",
+    "main.js": "/static/js/main.fe049e17.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Regi_Loshi_CV.pdf": "/static/media/Regi_Loshi_CV.6955f6260bfd1707fbb9.pdf",
+    "static/media/music1.jpeg": "/static/media/music1.3cf7ff2d8aeb0f34eb7a.jpeg",
+    "index.html": "/index.html",
+    "main.b09ead24.css.map": "/static/css/main.b09ead24.css.map",
+    "main.fe049e17.js.map": "/static/js/main.fe049e17.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b09ead24.css",
+    "static/js/main.fe049e17.js"
+  ]
+}
