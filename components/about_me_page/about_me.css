@@ -1,0 +1,42 @@
+.desc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-container {
+    flex: 0 0 auto;
+    padding-right: 20px;
+    margin-left: 10px;
+}
+
+.image-container img {
+    margin-top: 10px;
+}
+#img{
+    border: 1px solid white;
+    cursor: default;
+}
+
+.text-container p {
+    flex: 1 1 auto;
+}
+#p{
+    font-size: 1.5rem;
+}
+.k{
+    margin: 20px;
+}
+
+.social_media .grow:hover {
+    transform: translateY(-10px);
+}
+
+
+@media only screen and (max-width: 800px){
+    #p{
+        font-size: 1rem;
+    }
+}
+
+

@@ -1,0 +1,32 @@
+.projects-container {
+    max-width: 1200px; /* Set a maximum width for the container */
+    margin: 0 auto; /* Center align the container */
+    padding: 20px;
+}
+
+.project {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Two equal columns */
+    gap: 20px; /* Gap between columns */
+    align-items: center; /* Vertically center items */
+    margin-bottom: 40px; /* Add some spacing between projects */
+}
+
+.text-project {
+    color: white;
+}
+
+.text-project h2 {
+    margin-top: 0;
+}
+
+.project img {
+    max-width: 100%; 
+    border: solid 1px white;
+}
+
+@media (max-width: 768px) {
+    .project {
+        grid-template-columns: 1fr; /* Change to a single column */
+    }
+}
